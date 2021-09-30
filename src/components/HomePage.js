@@ -7,6 +7,7 @@ import {ReactComponent as Icon3} from '../img/3.svg'
 import {ReactComponent as Icon4} from '../img/4.svg'
 import {ReactComponent as Icon5} from '../img/5.svg'
 import {ReactComponent as Icon6} from '../img/6.svg'
+import {ReactComponent as Label} from '../img/label.svg'
 
 export default function HomePage() {
 
@@ -34,6 +35,10 @@ export default function HomePage() {
             <div className={`${s.hero} container`}>
                 <h1 className={s.heroTitle}>Quadpay anywhere</h1>
                 <p className={s.heroDescr}>Shop your favorite brands with the Quadpay app-online or in-store.</p>
+                <div>
+                    <Label />
+                    <Label />
+                </div>
             </div>
         </div>
         <div className='container'>
