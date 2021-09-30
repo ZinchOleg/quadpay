@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/quadpay/static/css/main.748036e5.chunk.css",
+    "main.js": "/quadpay/static/js/main.b89b7f76.chunk.js",
+    "main.js.map": "/quadpay/static/js/main.b89b7f76.chunk.js.map",
+    "runtime-main.js": "/quadpay/static/js/runtime-main.c4288aa1.js",
+    "runtime-main.js.map": "/quadpay/static/js/runtime-main.c4288aa1.js.map",
+    "static/js/2.ca9ba547.chunk.js": "/quadpay/static/js/2.ca9ba547.chunk.js",
+    "static/js/2.ca9ba547.chunk.js.map": "/quadpay/static/js/2.ca9ba547.chunk.js.map",
+    "index.html": "/quadpay/index.html",
+    "static/css/main.748036e5.chunk.css.map": "/quadpay/static/css/main.748036e5.chunk.css.map",
+    "static/js/2.ca9ba547.chunk.js.LICENSE.txt": "/quadpay/static/js/2.ca9ba547.chunk.js.LICENSE.txt",
+    "static/media/1.02bc5597.svg": "/quadpay/static/media/1.02bc5597.svg",
+    "static/media/2.0650a436.svg": "/quadpay/static/media/2.0650a436.svg",
+    "static/media/3.540ce1a6.svg": "/quadpay/static/media/3.540ce1a6.svg",
+    "static/media/4.4aa6c921.svg": "/quadpay/static/media/4.4aa6c921.svg",
+    "static/media/5.34518e7c.svg": "/quadpay/static/media/5.34518e7c.svg",
+    "static/media/6.391ecd32.svg": "/quadpay/static/media/6.391ecd32.svg",
+    "static/media/HomePage.module.css": "/quadpay/static/media/bgImg.b23e6d03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4288aa1.js",
+    "static/js/2.ca9ba547.chunk.js",
+    "static/css/main.748036e5.chunk.css",
+    "static/js/main.b89b7f76.chunk.js"
+  ]
+}
