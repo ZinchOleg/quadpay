@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.749023 23.25H22.499" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.74902 18.75H5.50002C5.63263 18.75 5.75981 18.8027 5.85358 18.8964C5.94735 18.9902 6.00002 19.1174 6.00002 19.25V23.25H2.24902V19.25C2.24902 19.1174 2.3017 18.9902 2.39547 18.8964C2.48924 18.8027 2.61642 18.75 2.74902 18.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.249 9.75H13C13.1326 9.75 13.2598 9.80268 13.3536 9.89645C13.4473 9.99021 13.5 10.1174 13.5 10.25V23.25H9.74902V10.25C9.74902 10.1174 9.8017 9.99021 9.89547 9.89645C9.98924 9.80268 10.1164 9.75 10.249 9.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.749 14.25H20.5C20.6326 14.25 20.7598 14.3027 20.8536 14.3964C20.9473 14.4902 21 14.6174 21 14.75V23.25H17.25V14.75C17.25 14.6176 17.3025 14.4905 17.3961 14.3968C17.4896 14.3031 17.6166 14.2503 17.749 14.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.88297 5.12106L2.86597 9.13406" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.311 6.32498L9.63696 5.07498" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.392 2.88895L16.811 5.68895" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.24902 6.00098C9.07745 6.00098 9.74902 5.3294 9.74902 4.50098C9.74902 3.67255 9.07745 3.00098 8.24902 3.00098C7.4206 3.00098 6.74902 3.67255 6.74902 4.50098C6.74902 5.3294 7.4206 6.00098 8.24902 6.00098Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.75 3.75C22.5784 3.75 23.25 3.07843 23.25 2.25C23.25 1.42157 22.5784 0.75 21.75 0.75C20.9216 0.75 20.25 1.42157 20.25 2.25C20.25 3.07843 20.9216 3.75 21.75 3.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.75 8.25C16.5784 8.25 17.25 7.57843 17.25 6.75C17.25 5.92157 16.5784 5.25 15.75 5.25C14.9216 5.25 14.25 5.92157 14.25 6.75C14.25 7.57843 14.9216 8.25 15.75 8.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.24902 12.001C3.07745 12.001 3.74902 11.3294 3.74902 10.501C3.74902 9.67255 3.07745 9.00098 2.24902 9.00098C1.4206 9.00098 0.749023 9.67255 0.749023 10.501C0.749023 11.3294 1.4206 12.001 2.24902 12.001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

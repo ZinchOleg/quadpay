@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Make payment seamless",
+        "descr": "Online or in-store, Quadpay means more flexibility at checkout."
+    },
+    {
+        "id": 2,
+        "title": "Take on zero risk",
+        "descr": "You get paid today. Your customers pay over time."
+    },
+    {
+        "id": 3,
+        "title": "Put your customers first",
+        "descr": "Interest-free installment plans with no hard credit check or impact on credit."
+    },
+    {
+        "id": 4,
+        "title": "Accept all major cards",
+        "descr": "QuadPay is the only Buy Now, Pay Later solution that accepts Amex and Discover along with Visa."
+    },
+    {
+        "id": 5,
+        "title": "Tap into our community",
+        "descr": "Introduce your brand to millions of existing QuadPay customers in our marketplace."
+    },
+    {
+        "id": 6,
+        "title": "Track progress",
+        "descr": "Easily manage customer data, order management, and reconciliation in the merchant portal."
+    }
+]
